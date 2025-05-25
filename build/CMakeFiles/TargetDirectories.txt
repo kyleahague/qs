@@ -1,0 +1,3 @@
+/home/kyle/Projects/code/C++/qs/build/CMakeFiles/qs.dir
+/home/kyle/Projects/code/C++/qs/build/CMakeFiles/edit_cache.dir
+/home/kyle/Projects/code/C++/qs/build/CMakeFiles/rebuild_cache.dir

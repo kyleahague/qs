@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/QuantumSim.dir/link.d CMakeFiles/QuantumSim.dir/src/Gates.cpp.o CMakeFiles/QuantumSim.dir/src/QubitSystem.cpp.o CMakeFiles/QuantumSim.dir/src/main.cpp.o -o QuantumSim
