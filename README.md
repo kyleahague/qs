@@ -33,8 +33,8 @@
 **Requirements:** CMake 3.14+, C++20+
 
 ```bash
-git clone https://github.com/youruser/QBitCore.git
-cd QBitCore && mkdir build && cd build
+git clone https://github.com/kyleahague/qs.git
+cd qs && mkdir build && cd build
 cmake ..
 make
 ```
@@ -44,7 +44,7 @@ make
 ## Run
 
 ```bash
-./QBitCore teleport.qasm
+./qs program.qasm
 ```
 
 **Example `teleport.qasm`:**
@@ -66,10 +66,10 @@ measure q[1] -> c[1];
 
 ## Folder Structure
 ```
-QBitCore/
+qs/
 ├── include/        # QubitSystem, Types, Gates
 ├── src/            # Core logic
-├── cli/            # (Optional) CLI entrypoint
+├── cli/            # CLI entrypoint
 ├── gates/          # Demo QASM programs
 ├── CMakeLists.txt
 ```
