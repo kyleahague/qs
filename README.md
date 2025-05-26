@@ -75,12 +75,3 @@ qs/
 ```
 
 ---
-
-## License
-
-This project is **proprietary** and **not open source**.
-
-All rights reserved © 2025 Kyle Hague.  
-Do **not** copy, use, distribute, or fork without permission.
-
-Contact for licensing: kyleahague@outlook.com
